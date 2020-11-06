@@ -1,5 +1,5 @@
-// import colors from './js/body-colors';
-// import randomIntegerFromInterval from './js/fn-random-color';
+// import {colors} from './js/body-colors';
+// import {randomIntegerFromInterval} from './js/fn-random-color';
 // import { buttonStart, buttonStop } from './js/buttons';
 
 

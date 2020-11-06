@@ -1,4 +1,4 @@
-export const buttonStart = document.querySelector('button[data-action="start"');
-export const buttonStop = document.querySelector('button[data-action="stop"');
+const buttonStart = document.querySelector('button[data-action="start"');
+const buttonStop = document.querySelector('button[data-action="stop"');
 
-// export { buttonStart, buttonStop };
+export { buttonStart, buttonStop };
